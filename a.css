@@ -1,0 +1,13 @@
+div{
+	width:500px;
+	height:500px;
+	border:black 5px solid ;
+	
+	position: relative;
+}
+#can_1{
+	
+	
+	
+	position: absolute;
+}
