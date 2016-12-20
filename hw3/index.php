@@ -1,8 +1,8 @@
 <head>
 	<title>MainPage</title> <!-- 這邊可以設定網頁的標題 -->	
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta  charset=utf-8" />
 </head>
-<body bgcolor="silver"> 
+<body style="background-color:silver"> 
 <?php
 #載入跟資料庫連線的程式碼
 include 'connect.php';
@@ -82,10 +82,9 @@ include 'connect.php';
 			</td>
 		</tr>
 		</form>
-		
+
 		</tbody>
-		
-		
+
 	</table>
 </div>	
 </body>

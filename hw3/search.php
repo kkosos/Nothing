@@ -1,9 +1,9 @@
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset=utf-8" />
 </head>
 <!--<body   background="background.jpg">-->
 
-<body   bgcolor="silver">
+<body style="background-color:yellow">
 <!-- 除了bgcolor外，也可以設定背景圖片，這邊可以吃相對路徑或是絕對路徑 -->
 <!-- 把輸出都弄到畫面中間，與index.php一樣 -->
 <div style="position:absolute;left:35%;top:15%"> 
